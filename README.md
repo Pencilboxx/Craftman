@@ -1,2 +1,2 @@
-# Craftman
-# Used basic HTML and basic CSS for creating a webpage
+# Craftman 🖍️
+## Used basic HTML and basic CSS for creating a webpage
